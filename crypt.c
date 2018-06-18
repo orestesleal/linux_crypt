@@ -3,6 +3,9 @@
 #include <crypt.h>
 #include <stdlib.h>
 
+/*
+ * Orestes Leal Rodriguez, 2018
+ */
 
 int main (int argc, char *argv[])
 {
